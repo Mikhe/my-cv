@@ -1,0 +1,13 @@
+#root header {
+    text-align: center;
+    color: #077187;
+}
+
+#root p {
+    color: #B0B5B3;
+    font-size: 20px;
+}
+
+#root a {
+    color: inherit;
+}
