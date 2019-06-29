@@ -5,7 +5,7 @@ function App () {
         <div className="App">
             <header className="App-header">
                 <h1>
-                    How many CV have you looked through before came here?
+                    How many CV have you looked through before coming here?
                     <br/>
                     May be this one is what you are looking for?
                 </h1>
