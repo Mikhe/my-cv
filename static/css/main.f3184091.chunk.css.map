@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,aACI,iBAAkB,CAClB,aACJ,CAEA,QACI,aAAc,CACd,cACJ,CAEA,QACI,aACJ","file":"main.f3184091.chunk.css","sourcesContent":["#root header {\r\n    text-align: center;\r\n    color: #077187;\r\n}\r\n\r\n#root p {\r\n    color: #B0B5B3;\r\n    font-size: 20px;\r\n}\r\n\r\n#root a {\r\n    color: inherit;\r\n}"]}
